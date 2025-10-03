@@ -61,7 +61,8 @@ Install & Run (fast, step-by-step)
      http://127.0.0.1:5000/
 Or
 API (use from CLI or scripts)
-   curl "http://127.0.0.1:5000/api/scan?url=https://example.com"
+   curl -i "http://127.0.0.1:5000/api/scan?url=https://example.com/"
  
+
 
 
