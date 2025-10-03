@@ -12,7 +12,7 @@ Simple prototype to check if a website is potentially fake/scam based on:
 - Python 3.10+
 - pip (Python package manager)
 
----
+---bash
 
 ## Setup (Local)
 
@@ -24,4 +24,5 @@ python -m venv venv
 # Windows (PowerShell): venv\Scripts\Activate.ps1
 # Linux/Mac: source venv/bin/activate
 https://wakilahmedparvez.github.io/wakilparvez/
+
 
